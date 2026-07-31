@@ -26,3 +26,6 @@ test 9
 
 
 test 10
+
+
+coucou QWEN 3.6 27b !
